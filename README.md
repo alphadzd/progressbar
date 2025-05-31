@@ -2,6 +2,8 @@
 
 A minimalist, compact progress bar UI element designed for video game map interfaces with Arabic text support. This progress bar appears near the bottom-left corner of the screen (15% up from the bottom) with a semi-transparent dark background, rounded corners, and a purple animated progress line.
 
+Preview : https://cdn.discordapp.com/attachments/1377513657738596503/1378240052273872997/image.png?ex=683be192&is=683a9012&hm=89086ae00e177cbdb8ceb4a7c290cbfc0b08349728d8d07dd6d82cf8955d14f5&
+
 ## Features
 
 - **Compact Design**: Small, unobtrusive dark background with soft rounded corners
